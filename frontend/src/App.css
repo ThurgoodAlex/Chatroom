@@ -1,0 +1,19 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+}
+.navbar ul{
+  display: flex;
+  flex-direction: row;
+
+}
+.navbar li {
+  margin: 15px;
+
+} */
